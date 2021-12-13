@@ -1,6 +1,6 @@
 # pairwise-margin-maximization
 
-This code can be used to replicate results from "selective sampling for accelerating  training of deep neural networks"
+This code can be used to replicate results from "Pairwise Margin Maximization for Deep Neural Networks"
  
  To clone:
  ```
